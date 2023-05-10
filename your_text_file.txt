@@ -1,0 +1,16 @@
+Note: 38, Velocity: 90, Time: 0
+Note: 53, Velocity: 90, Time: 0
+Note: 57, Velocity: 90, Time: 0
+Note: 62, Velocity: 90, Time: 0
+Note: 45, Velocity: 90, Time: 384
+Note: 57, Velocity: 90, Time: 384
+Note: 60, Velocity: 90, Time: 384
+Note: 64, Velocity: 90, Time: 384
+Note: 48, Velocity: 90, Time: 768
+Note: 55, Velocity: 90, Time: 768
+Note: 60, Velocity: 90, Time: 768
+Note: 64, Velocity: 90, Time: 768
+Note: 43, Velocity: 90, Time: 1152
+Note: 55, Velocity: 90, Time: 1152
+Note: 59, Velocity: 90, Time: 1152
+Note: 62, Velocity: 90, Time: 1152
